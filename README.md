@@ -1,5 +1,5 @@
 ## Responsive Fan Site
-This website is dedicated to IBM. A company that continuously pushing the boundaries of what can be done with computers.
+This website is dedicated to IBM. An innovative company that continuously pushes the boundaries of technology.
 
 ### Technology Used
 - HTML
