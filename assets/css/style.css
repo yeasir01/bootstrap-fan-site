@@ -30,7 +30,14 @@
   background-color: #B3995D !important;
 }
 
+/* Custom Image Sizes */
+
 .home-images {
   height: 150px;
   width: 150px;
+}
+
+.feat-img {
+  height: 350px;
+  width: 350px;
 }
