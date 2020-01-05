@@ -1,5 +1,5 @@
 .custom-bg {
-  background-color: #ecf0f1;
+  background-color: #dbdbdb;
 }
 
 .home-jt {
@@ -28,4 +28,9 @@
 
 .ng-bg {
   background-color: #B3995D !important;
+}
+
+.home-images {
+  height: 150px;
+  width: 150px;
 }
